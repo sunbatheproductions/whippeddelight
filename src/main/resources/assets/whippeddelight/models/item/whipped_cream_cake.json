@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "whippeddelight:item/whipped_cream_cake"
-  }
-}
