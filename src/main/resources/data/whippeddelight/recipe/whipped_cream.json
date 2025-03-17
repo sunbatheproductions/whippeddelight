@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:milk/milk"
+    }
+  ],
+  "result": {
+    "id": "whippeddelight:whipped_cream"
+  }
+}
